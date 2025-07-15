@@ -6,4 +6,4 @@
 
 2. deploy catalog-service to docker; add new commands in Taskfile
 
-3.
+3. implement create order api; use records as JPA embeddables; add unit testing controllers using @WebMvcTest; integrate testing by Testcontainers; apply Resilience4j patterns with RestClient (ensuring fault tolerance and graceful degradation in downstream service calls)
